@@ -170,7 +170,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Available address formats.
 [address_formats]
@@ -259,8 +259,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 1
-  api_key = "AIzaSyAsRBj-IRQqYA2B_K8HnP7b0sh5JJ9OxTs"
+  engine = 2
+  api_key = ""
   zoom = 15
 
 ############################
